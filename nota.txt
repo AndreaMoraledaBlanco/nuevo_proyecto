@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Adios
-=======
-Hola
->>>>>>> develop
+Adios muy buenas
